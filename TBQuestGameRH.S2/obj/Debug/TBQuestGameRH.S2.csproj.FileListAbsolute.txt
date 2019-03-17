@@ -1,0 +1,15 @@
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH.S2.csprojAssemblyReference.cache
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\PresentationLayer\GameSessionView.g.cs
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\App.g.cs
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH_MarkupCompile.cache
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH_MarkupCompile.lref
+F:\TBQuestGameRH\TBQuestGameRH.S2\bin\Debug\TBQuestGameRH.exe.config
+F:\TBQuestGameRH\TBQuestGameRH.S2\bin\Debug\TBQuestGameRH.exe
+F:\TBQuestGameRH\TBQuestGameRH.S2\bin\Debug\TBQuestGameRH.pdb
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\PresentationLayer\GameSessionView.baml
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH.g.resources
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH.Properties.Resources.resources
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH.S2.csproj.GenerateResource.cache
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH.S2.csproj.CoreCompileInputs.cache
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH.exe
+F:\TBQuestGameRH\TBQuestGameRH.S2\obj\Debug\TBQuestGameRH.pdb
